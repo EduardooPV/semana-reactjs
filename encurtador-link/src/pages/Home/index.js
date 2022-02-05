@@ -29,6 +29,12 @@ export default function Home() {
     }
   }
 
+  function handlePressEnter(e) {
+    if (e.key === 'Enter') {
+      handleShortLink()
+    }
+  }
+
   return (
     <div className="container-home">
       <div className="logo">
@@ -44,6 +50,7 @@ export default function Home() {
             placeholder="Cole seu link aqui..."
             value={link}
             onChange={(e) => setLink(e.target.value)}
+            onKeyPress={(e) => handlePressEnter(e)}
           />
         </div>
 
