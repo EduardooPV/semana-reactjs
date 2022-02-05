@@ -13,7 +13,7 @@ Durante a semana React.js iremos desenvolver dois projetos, um bem básico para 
 ![image](https://user-images.githubusercontent.com/69824782/152265003-1792da8e-caec-4a65-9386-10aa498a8d0c.png)
 
 ### Página de Links
-![image](https://user-images.githubusercontent.com/69824782/152662308-c21c72b7-4d0b-4938-a01f-db160c51f0bb.png)
+![image](https://user-images.githubusercontent.com/69824782/152662316-afee3c6e-93ca-443b-8f41-1fd876ff702b.png)
 
 ### Página Error 404
 ![image](https://user-images.githubusercontent.com/69824782/152662307-eeb2e0bb-63f7-4a4d-8376-54f1d83f495d.png)
